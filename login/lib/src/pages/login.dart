@@ -27,8 +27,7 @@ class _LoginState extends State<Login> {
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
                 const Image(
-                  image: NetworkImage(
-                      "https://campusvirtual.unah.edu.hn/pluginfile.php/1/core_admin/logo/0x300/1688671142/thumbnail_logo-02.png"),
+                  image: NetworkImage("https://campusvirtual.unah.edu.hn/pluginfile.php/1/core_admin/logo/0x300/1688671142/thumbnail_logo-02.png"),
                   width: 160,
                 ),
                 Form(
